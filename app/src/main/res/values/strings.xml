@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apple\'s Top 10 Albums</string>
+    <string name="rss_feed_url">https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/10/explicit.json</string>
+    <string name="no_connection_alert_title">No Internet Connection</string>
+    <string name="no_connection_alert_message">No network connection detected.  Please turn it on and try again</string>
+    <string name="wait_message">Please wait…</string>
+    <string name="placeholder_text">Loading…</string>
+    <string name="categories_header">Categories:</string>
+</resources>

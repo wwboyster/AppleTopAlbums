@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margins">16dp</dimen>
+    <dimen name="activity_indent_margins">48dp</dimen>
+    <dimen name="details_list_margins">8dp</dimen>
+    <dimen name="std_text">16sp</dimen>
+    <dimen name="title_text">20sp</dimen>
+    <dimen name="bitmap_thumbnail">64dp</dimen>
+    <dimen name="bitmap_detail">128dp</dimen>
+</resources>
